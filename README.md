@@ -4,7 +4,7 @@
 
 **Study roadmap**: [Frontend Developer](https://roadmap.sh/frontend), [Backend Developer](https://roadmap.sh/backend)
 <br/>**In process**: aiogram, React,  DOM API
-<br/>**Retrospective**: Windows Forms on Csharp, HTML, bootstrap, CSS3, SASS, JavaScript, MySQL, Figma, PhotoShop, Lunix, Python, telebot, git
+<br/>**Retrospective**: Windows Forms on Csharp, HTML, bootstrap, CSS3, SASS, JavaScript, MySQL, Figma, PhotoShop, Linux, Python, telebot, git
 ## 🗂 About me
 - I'm 20 years old
 - I'm developing bots and websites
