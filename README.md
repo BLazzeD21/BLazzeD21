@@ -2,8 +2,10 @@
 
 ### I am Alexandr Sekerin software engineer from Russia.
 
+<br/>**Study roadmap**: React Native, Kubernetes, GraphQL, Linux, CI/CD
+<br/>**In process**: PWA, web3
+<br/><br/>**Retrospective**: Windows Forms on Csharp, HTML, bootstrap, CSS3, SASS, JavaScript, MySQL, Figma, PhotoShop, Lunix, Python, telebot
 ## 🗂 About me
-
 - I'm 20 years old
 - I'm developing bots and websites
 - I'm working with servers on Windows and Linux
