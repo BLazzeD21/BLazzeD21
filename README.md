@@ -1,10 +1,25 @@
-### Hi there 👋
-<br>
+# Hi there <img src="./hello.gif" width="30px">
+
+### I am Alexandr Sekerin software engineer from Russia.
+
+## 🗂 About me
+
+- I'm 20 years old
+- I'm developing bots and websites
+- I'm working with servers on Windows and Linux
+- You can view the my portfolio [here](https://blazzed21.github.io/)
+
+## 📊 Statistics on github
 
 <img width="800" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blazzed21&theme=dracula" />
 
+## 📕 Codewars stats
+
 [![codewars](https://www.codewars.com/users/BLazzeD/badges/large)](https://www.codewars.com/users/BLazzeD)
 
+## 🥇 Statistic & Information
+
+<br/>
 
 <div align="center">
 <a href="https://github.com/Pechenyice/Pechenyice">
