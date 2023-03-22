@@ -19,25 +19,19 @@
 
 [![codewars](https://www.codewars.com/users/BLazzeD/badges/large)](https://www.codewars.com/users/BLazzeD)
 
-## 🥇 Statistic & Information
+## 🔥 Streak Stats
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-streak-stats">
+      <img title="Streak stats for your profile at git.io/streak-stats" alt="BLazzeD's streak" src="https://streak-stats.demolab.com/?user=BLazzeD21&theme=dracula&hide_border=true"/>
+    </a>
+</p>
 
-<br/>
+## 💻 GitHub Profile Stats
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BLazzeD21's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BLazzeD21&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BLazzeD21's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BLazzeD21&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+</p>
 
-<div align="center">
-<a href="https://github.com/Pechenyice/Pechenyice">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=BLazzeD21&show_icons=true&theme=dracula&hide_border=true" alt="Pechenyice's GitHub Stats" />
-</a>
-
-<a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLazzeD21&theme=dracula&hide_border=true" width="400" align="center" />
-</a>
-
-<a href="https://github.com/Pechenyice/Pechenyice">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLazzeD21&langs_count=5&theme=dracula&layout=compact&hide_border=true" align="center" />
-</a>
-</div>
-
-<br/>
 
 
 
