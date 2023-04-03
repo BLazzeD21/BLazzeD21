@@ -19,18 +19,23 @@
 
 [![codewars](https://www.codewars.com/users/BLazzeD/badges/large)](https://www.codewars.com/users/BLazzeD)
 
-## 🔥 Streak Stats
+<!-- ## 🔥 Streak Stats
 <p>
     <a href="https://github.com/BLazzeD21">
       <img title="Streak stats for your profile at git.io/streak-stats" alt="BLazzeD's streak" src="https://streak-stats.demolab.com/?user=BLazzeD21&theme=dracula&hide_border=true"/>
     </a>
-</p>
+</p> -->
 
 ## 💻 GitHub Profile Stats
 <p>
     <a href="https://github.com/BLazzeD21">
-        <img alt="BLazzeD21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BLazzeD21&show_icons=true&theme=dracula&hide_border=true" height="192px"/>
+        <img title="Streak stats for your profile at git.io/streak-stats" alt="BLazzeD's streak" src="https://streak-stats.demolab.com/?user=BLazzeD21&theme=dracula&hide_border=true"/>
     </a>
+    <!---
+    <a href="https://github.com/BLazzeD21">
+        <img alt="BLazzeD21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blazzed21&show_icons=true&theme=dracula" height="192px"/>
+    </a>
+    -->
     <a href="https://github.com/BLazzeD21">
           <img alt="BLazzeD21's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BLazzeD21&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
     </a>
