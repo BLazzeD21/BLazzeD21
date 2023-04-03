@@ -25,7 +25,7 @@
 ## 💻 GitHub Profile Stats
 <p>
     <a href="https://github.com/BLazzeD21">
-        <img title="Streak stats for your profile at git.io/streak-stats" alt="BLazzeD's streak" src="https://streak-stats.demolab.com/?user=BLazzeD21&theme=dracula&hide_border=true"/>
+        <img title="Streak stats for your profile at git.io/streak-stats" alt="BLazzeD's streak" src="https://streak-stats.demolab.com/?user=BLazzeD21&theme=dracula&hide_border=true" height="192px"/>
     </a>
     <!---
     <a href="https://github.com/BLazzeD21">
