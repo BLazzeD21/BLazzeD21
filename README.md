@@ -1,4 +1,4 @@
-# Hi there <img src="./hello.gif" width="30px">
+# Hey, what's up <img src="./hello.gif" width="30px">
 
 ### I am Alexandr Sekerin software engineer from Russia.
 
