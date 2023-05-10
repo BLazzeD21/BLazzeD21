@@ -6,7 +6,7 @@
 <br/>**In process**: aiogram, React,  DOM API
 <br/>**Retrospective**: Windows Forms on Csharp, HTML, bootstrap, CSS3, SASS, JavaScript, MySQL, Figma, PhotoShop, Linux, Python, telebot, git
 ## 🗂 About me
-- I'm 20 years old
+- I'm 21 years old
 - I'm developing bots and websites
 - I'm working with servers on Windows and Linux
 - You can view the my portfolio [here](https://blazzed21.github.io/)
