@@ -2,7 +2,7 @@
 
 ### I am Alexandr Sekerin software engineer from Russia.
 
-**Study roadmap**: [Frontend Developer](https://roadmap.sh/frontend), [Backend Developer](https://roadmap.sh/backend)
+**Study roadmap**: [Frontend Developer](https://roadmap.sh/frontend)
 <br/>**In process**: aiogram, React,  DOM API
 <br/>**Retrospective**: Windows Forms on Csharp, HTML, bootstrap, CSS3, SASS, JavaScript, MySQL, Figma, PhotoShop, Linux, Python, telebot, git
 ## 🗂 About me
