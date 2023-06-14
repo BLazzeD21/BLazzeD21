@@ -6,12 +6,10 @@
 <br/>**In process**: React
 
 ## 🗃 My stack
-**Database**: MySQL
-<br/>**Used programming languages**: JavaScript, C#, Python
-<br/>**Technologies used in web development**: HTML5, CSS3, SASS, bootstrap
-<br/>**Other technologies**: git
-<br/>
-<br/>**OS**: Windows, Linux
+**Storage**: MySQL
+<br/>**Languages**: HTML5, CSS3, JavaScript, C#, Python
+<br/>**Technologies**: SASS, bootstrap, git
+<br/>**Platforms**: Windows, Linux
 <br/>**Used programs**: VScode, Visual Studio 2023, MySQL Workbench 8.0 CE, Figma, PhotoShop
 
 
