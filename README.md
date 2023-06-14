@@ -3,8 +3,20 @@
 ### I am Alexandr Sekerin web developer from Russia.
 
 **Study roadmap**: [Frontend Developer](https://roadmap.sh/frontend)
-<br/>**In process**: aiogram, React,  DOM API
-<br/>**Retrospective**: Windows Forms on Csharp, HTML, bootstrap, CSS3, SASS, JavaScript, MySQL, Figma, PhotoShop, Linux, Python, telebot, git
+<br/>**In process**: React
+
+## 🗃 My stack
+**Database**: MySQL
+<br/>**Used programming languages**: JavaScript, C#, Python
+<br/>**Technologies used in web development**: HTML5, CSS3, SASS, bootstrap
+<br/>**Other technologies**: git
+<br/>
+<br/>**OS**: Windows, Linux
+<br/>**Used programs**: VScode, Visual Studio 2023, MySQL Workbench 8.0 CE, Figma, PhotoShop
+
+
+
+
 ## 🗂 About me
 - I'm 21 years old
 - I'm developing bots and websites
