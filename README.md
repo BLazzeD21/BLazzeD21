@@ -5,12 +5,12 @@
 **Study roadmap**: [Frontend Developer](https://roadmap.sh/frontend)
 <br/>**In process**: React
 
-## 🗃 My stack
+## 🗃 My skills
 **Storage**: MySQL
 <br/>**Languages**: HTML5, CSS3, JavaScript, C#, Python
 <br/>**Technologies**: SASS, bootstrap, git
 <br/>**Platforms**: Windows, Linux
-<br/>**Used programs**: VScode, Visual Studio 2023, MySQL Workbench 8.0 CE, Figma, PhotoShop
+<br/>**Tools**: VScode, Visual Studio 2023, MySQL Workbench 8.0 CE, Figma, PhotoShop
 
 
 
