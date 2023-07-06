@@ -1,6 +1,6 @@
 # Hey, what's up <img src="./hello.gif" width="30px">
 
-### I am Alexandr Sekerin web developer from Russia.
+### I'm Alexandr Sekerin web developer from Russia.
 
 **Study roadmap**: [Frontend Developer](https://roadmap.sh/frontend)
 <br/>**In process**: React
