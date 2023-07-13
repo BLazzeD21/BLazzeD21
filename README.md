@@ -8,7 +8,7 @@
 ## 🗃 My skills
 **Storage**: MySQL
 <br/>**Languages**: HTML5, CSS3, JavaScript, C#, Python
-<br/>**Technologies**: SASS, bootstrap, git
+<br/>**Technologies**: CSS-preprocessors, bootstrap, git, gulp
 <br/>**Platforms**: Windows, Linux
 <br/>**Tools**: VScode, Visual Studio 2023, MySQL Workbench 8.0 CE, Figma, PhotoShop, FileZilla Client
 
