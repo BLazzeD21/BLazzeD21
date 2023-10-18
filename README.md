@@ -6,7 +6,7 @@
 <br/>**In process**: React
 
 ## 🗃 My skills
-**Storage**: MySQL, SQLite
+**Storage**: MySQL, SQLite, Redis
 <br/>**Languages**: HTML5, CSS3, JavaScript, C#, Python
 <br/>**Technologies**: CSS-preprocessors, bootstrap, git, gulp
 <br/>**Platforms**: Windows, Linux
