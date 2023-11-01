@@ -25,6 +25,10 @@ Type | Skills
 - <samp>🛠 I'm working with servers on Windows and Linux</samp>
 - <samp>📂 More information and my projects can be found [here](https://blazzed21.github.io/)</samp>
 
+## 📕 Codewars and leetcode stats
+
+[![LeetCode user blazzed](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fblazzed&logo=leetcode&logoColor=yellow)](https://leetcode.com/blazzed/) [![codewars](https://www.codewars.com/users/BLazzeD/badges/small)](https://www.codewars.com/users/BLazzeD)
+
 ## 📊 Activity statistics
 
 <img width="800" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blazzed21&theme=dracula" />
@@ -50,16 +54,6 @@ Type | Skills
           <img alt="BLazzeD21's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BLazzeD21&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
     </a>
 </p>
-
-## 📕 Codewars and leetcode stats
-
-[![codewars](https://www.codewars.com/users/BLazzeD/badges/large)](https://www.codewars.com/users/BLazzeD)
-
-[![LeetCode user blazzed](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fblazzed&logo=leetcode&logoColor=yellow)](https://leetcode.com/blazzed/)
-
-
-
-
 
 ## 👁 Profile views
 
