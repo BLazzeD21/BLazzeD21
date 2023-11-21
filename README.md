@@ -24,7 +24,7 @@ Type | Skills
 - <samp>💻 I develop bots, websites and some desktop applications. Now all my attention and motivation is on the web.</samp>
 - <samp>🛠 I'm working with servers on Windows and Linux</samp>
 - <samp>📂 More information and my projects can be found [here](https://blazzed21.github.io/)</samp>
-
+- <samp>✉️ You can contact me at [telegram](https://t.me/BlazzeD21) or sekerin.alexandr@gmail.com</samp>
 ## 📕 Codewars and leetcode stats
 
 [![LeetCode user blazzed](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fblazzed&logo=leetcode&logoColor=yellow)](https://leetcode.com/blazzed/) [![codewars](https://www.codewars.com/users/BLazzeD/badges/small)](https://www.codewars.com/users/BLazzeD)
