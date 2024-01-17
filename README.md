@@ -15,7 +15,7 @@ Type | Skills
 
 
 ### 💻 IDEs/Editors and Tools:
-<samp>VScode, Visual Studio 2023, MySQL Workbench 8.0 CE, Figma, PhotoShop, FileZilla Client, Docker Desktop, Termius</samp>
+<samp>VScode, Visual Studio 2023, MySQL Workbench 8.0 CE, Figma, PhotoShop, FileZilla Client, Docker Desktop, Termius, Notion, DB Browser for SQLite</samp>
 
 ## 🗂 About me
 - <samp>👤 I'm 21 years old</samp>
