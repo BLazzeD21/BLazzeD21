@@ -34,13 +34,10 @@ Type | Skills
 <img width="800" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blazzed21&theme=dracula" />
 
 ## 💻 GitHub Profile Stats
+
 <p>
-    <a href="https://github.com/BLazzeD21">
-        <img title="Streak stats for your profile at git.io/streak-stats" alt="BLazzeD's streak" src="https://streak-stats.demolab.com/?user=BLazzeD21&theme=dracula&hide_border=true" height="192px"/>
-    </a>
-    <a href="https://github.com/BLazzeD21">
-          <img alt="BLazzeD21's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BLazzeD21&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-    </a>
+    <img title="Streak stats for your profile at git.io/streak-stats" alt="BLazzeD's streak" src="https://github-readme-stats.vercel.app/api?username=blazzed21&show_icons=true&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+    <img alt="BLazzeD21's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BLazzeD21&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </p>
 
 ## 👁 Profile views
