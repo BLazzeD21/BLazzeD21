@@ -45,4 +45,4 @@ Type | Skills
 
 ## 👁 Profile views
 
-![](https://komarev.com/ghpvc/?username=blazzed21)
+![](https://komarev.com/ghpvc/?username=blazzed21&style=for-the-badge&color=blueviolet)
