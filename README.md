@@ -23,7 +23,7 @@ Type | Skills
 - <samp>🏒 My favourite sport is ice hockey. If you want to meet, invite me to hockey ;)</samp>
 - <samp>💻 I develop bots, websites and some desktop applications. Now all my attention and motivation is on the web.</samp>
 - <samp>🛠 I'm working with servers on Windows and Linux</samp>
-- <samp>📂 More information and my projects can be found [here](https://blazzed21.vercel.app/)</samp>
+- <samp>📂 More information and my projects can be found [here](https://www.blazzed.space/)</samp> 
 - <samp>✉️ You can contact me at [telegram](https://t.me/BlazzeD21) or sekerin.alexandr@gmail.com</samp>
 ## 📕 Codewars and leetcode stats
 
