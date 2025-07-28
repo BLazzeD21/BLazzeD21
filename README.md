@@ -20,7 +20,7 @@ Type | Skills
 <samp>VScode, Visual Studio 2023, MySQL Workbench 8.0 CE, Figma, PhotoShop, FileZilla Client, Docker Desktop, Termius, Notion, DB Browser for SQLite, Outline, Postman</samp>
 
 ## 🗂 About me
-- <samp>👤 I'm 22 years old</samp>
+- <samp>👤 I'm 23 years old</samp>
 - <samp>🌆 My favorite cities are Kazan and Vancouver. Сurrently I live in St. Petersburg.</samp>
 - <samp>🏒 My favourite sport is ice hockey. If you want to meet, invite me to hockey ;)</samp>
 - <samp>💻 I develop bots, websites and some desktop applications. Now all my attention and motivation is on the web.</samp>
