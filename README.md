@@ -1,6 +1,6 @@
 # Hey, what's up! <img src="./hello.gif" width="30px">
 
-<samp>My name is Alexander and I am a web developer. I have been programming since 2017 and have implemented such projects as websites, bots, desktop applications for Windows and game servers. Now I develop in web development and learn more and more new technologies to become better.</samp>
+<samp>My name is Alexander and I am a software engineer. I have been programming since 2017 and have implemented such projects as websites, bots, desktop applications for Windows and game servers. Now I develop in web development and learn more and more new technologies to become better.</samp>
 
 
 ## 🗃 My skills
