@@ -26,9 +26,23 @@ Type | Skills
 - <samp>🛠 I'm working with servers on Windows and Linux</samp>
 - <samp>📂 More information and my projects can be found [here](https://www.blazzed.tech/)</samp> 
 - <samp>✉️ You can contact me at [telegram](https://t.me/BlazzeD21) or sekerin.alexandr@gmail.com</samp>
-## 📕 Codewars and leetcode stats
 
-[![LeetCode user blazzed](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fblazzed&logo=leetcode&logoColor=yellow)](https://leetcode.com/blazzed/) [![codewars](https://www.codewars.com/users/BLazzeD/badges/small)](https://www.codewars.com/users/BLazzeD)
+## 📕 Codewars and LeetCode statistics
+
+<a href="https://leetcode.com/blazzed/">
+    <img
+        height="150"
+        align="center"
+        src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/BLazzeD&logo=leetcode&logoColor=FFA116&color=FFA116&labelColor=white"
+    />
+</a> 
+<a href="https://leetcode.com/blazzed/">
+    <img
+        height="150"
+        align="center"
+        src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codewars&query=honor&url=https://www.codewars.com/api/v1/users/BLazzeD&logo=codewars&logoColor=B1361E&color=B1361E&labelColor=white"
+    />
+</a> 
 
 ## 📊 Activity statistics
 
@@ -40,7 +54,7 @@ Type | Skills
     />
 </a>
 
-## 💻 GitHub Profile Stats
+## 💻 GitHub Profile Statistics
 
 <p>
     <a href="https://github.com/BLazzeD21">
