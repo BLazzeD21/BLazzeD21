@@ -29,48 +29,30 @@ Type | Skills
 
 ## 📕 Codewars and LeetCode statistics
 
-<a href="https://leetcode.com/blazzed/">
-    <img
-        height="150"
-        align="center"
-        src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/BLazzeD&logo=leetcode&logoColor=FFA116&color=FFA116&labelColor=white"
-    />
-</a> 
-<a href="https://leetcode.com/blazzed/">
-    <img
-        height="150"
-        align="center"
-        src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codewars&query=honor&url=https://www.codewars.com/api/v1/users/BLazzeD&logo=codewars&logoColor=B1361E&color=B1361E&labelColor=white"
-    />
-</a> 
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/BLazzeD&logo=leetcode&logoColor=FFA116&color=FFA116&labelColor=white)](https://leetcode.com/blazzed/)
+[![CodeWars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codewars&query=honor&url=https://www.codewars.com/api/v1/users/BLazzeD&logo=codewars&logoColor=B1361E&color=B1361E&labelColor=white)](https://www.codewars.com/users/BLazzeD)
 
 ## 📊 Activity statistics
 
-<a href="https://github.com/BLazzeD21">
-    <img
-        width="800"
-        align="center"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blazzed21&theme=dracula"
-    />
-</a>
+<img
+    width="800"
+    align="center"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blazzed21&theme=dracula"
+/>
 
 ## 💻 GitHub Profile Statistics
 
 <p>
-    <a href="https://github.com/BLazzeD21">
-        <img
-            title="Streak stats for your profile at git.io/streak-stats" alt="BLazzeD's streak"
-            src="https://streak-stats.demolab.com/?user=BLazzeD21&theme=dracula&hide_border=true"
-            height="192px"
-        />
-    </a>
-    <a href="https://github.com/BLazzeD21">
-        <img
-            alt="BLazzeD21's Top Languages"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BLazzeD21&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
-            height="192px"
-        />
-    </a>
+    <img
+        title="Streak stats for your profile at git.io/streak-stats" alt="BLazzeD's streak"
+        src="https://streak-stats.demolab.com/?user=BLazzeD21&theme=dracula&hide_border=true"
+        height="192px"
+    />
+    <img
+        alt="BLazzeD21's Top Languages"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BLazzeD21&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+        height="192px"
+    />
 </p>
 
 
