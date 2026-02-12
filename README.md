@@ -44,8 +44,9 @@ Type | Skills
 
 <p>
     <img
-        title="Streak stats for your profile at git.io/streak-stats" alt="BLazzeD's streak"
-        src="https://streak-stats.demolab.com/?user=BLazzeD21&theme=dracula&hide_border=true"
+        title="Streak stats for your profile at git.io/streak-stats"
+        alt="BLazzeD's streak"
+        src="https://streak-stats.demolab.com?user=BLazzeD21&theme=dracula&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=192"
         height="192px"
     />
     <img
