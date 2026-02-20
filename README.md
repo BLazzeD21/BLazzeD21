@@ -29,7 +29,7 @@ Type | Skills
 
 ## 📕 Codewars and LeetCode statistics
 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/BLazzeD&logo=leetcode&logoColor=FFA116&color=FFA116&labelColor=white)](https://leetcode.com/blazzed/)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https://leetscan.vercel.app/BLazzeD&logo=leetcode&logoColor=FFA116&color=FFA116&labelColor=white)](https://leetcode.com/blazzed/)
 [![CodeWars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codewars&query=honor&url=https://www.codewars.com/api/v1/users/BLazzeD&logo=codewars&logoColor=B1361E&color=B1361E&labelColor=white)](https://www.codewars.com/users/BLazzeD)
 
 ## 📊 Activity statistics
